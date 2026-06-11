@@ -1,12 +1,9 @@
-theme: jekyll-theme-minima
-
 title: bbroot App Support
 description: Technical support pages for bbroot apps
 baseurl: ""
 url: "https://app.404w.com"
 
-plugins:
-  - jekyll-feed
+theme: minima
 
 defaults:
   - scope:
