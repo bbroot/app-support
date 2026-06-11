@@ -23,6 +23,8 @@ For technical support or feedback, please contact: bbroot@live.cn
 
 MDoc does not collect any personal data. All documents are stored locally on your device.
 
+▶ [查看完整隐私政策](privacy)
+
 ## Version History
 
 - **1.0.0** (2026-06-11): Initial release
